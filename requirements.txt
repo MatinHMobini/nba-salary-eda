@@ -1,0 +1,7 @@
+datasets
+pandas
+numpy
+matplotlib
+great_expectations>=1.0
+fpdf2
+jupyter
